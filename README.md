@@ -240,24 +240,24 @@ for that perform that checks).
 
 ## User control and transparency
 
-A description of the obligations of
+TODO: A description of the obligations of
 developers and applications to provide users with control over their data and to
 be transparent about data usage and sharing.
 
 ## Community guidelines
 
-A description of the guidelines for appropriate
+TODO: A description of the guidelines for appropriate
 behavior and engagement within the SSB community, including guidelines for
 communication and collaboration with other developers and users.
 
 ## Dispute resolution
 
-A description of the process for resolving disputes or
+TODO: A description of the process for resolving disputes or
 violations of the specification, including the roles and responsibilities of
 developers, applications, and the SSB community.
 
 ## Conclusion: 
 
-A summary of the key points of the specification and a call to action for 
+TODO: A summary of the key points of the specification and a call to action for 
 developers and applications to comply with the guidelines to ensure a
 healthy and secure SSB mainnet.
