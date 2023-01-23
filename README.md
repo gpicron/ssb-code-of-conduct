@@ -134,7 +134,7 @@ transparency and accountability among application developers.
         "version": "1.0.0",
         "description": "A mobile-first, offline-first, secure, private, and decentralized social network.",
         "release-notes": "describe here the changes between versions, especially meaning full changes in requested data processing",
-        "hash": "sha256: 0x1234567890abcdef",
+        "hashMultibase": "0x1234567890abcdef",
         "data-processing": [  // describes the data processing requested by the application when following
            "publish post on UI",
            "index using ssb-search2"
