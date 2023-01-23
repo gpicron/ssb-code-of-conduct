@@ -54,7 +54,7 @@ accordance with the same values and principles upheld by the SSB mainnet.
 
 ## Definitions
 
-### Developper:
+### Developer:
 
 An individual or organization that creates and maintains an application that is
 intended to be used on the SSB mainnet. A developer is identified by their Feed
@@ -64,7 +64,7 @@ in the DID document such as their name and contact information. If the developer
 is a company, they must provide information such as the company name, contact
 information, and any relevant registration or incorporation details.
 
-Example DID Document for a Developper feed:
+Example DID Document for a Developer feed:
 
 ```` json
 {
@@ -80,7 +80,7 @@ Example DID Document for a Developper feed:
   "service": [
     {
       "id": "did:ssb:ed25519:aaTWXmj9rNHWl3_Z_uomAkf_5WzjLhZPSmAtFrgE20o#services-1",
-      "type": "SSBDevelopper",
+      "type": "SSBDeveloper",
       "serviceEndpoint": {
         "name": "John Doe",
         "email": "johndoe@example.com",
