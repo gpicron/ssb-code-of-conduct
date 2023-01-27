@@ -223,11 +223,6 @@ consistently maintain the security and privacy of their users' data.
 
 ## Compliance with SSB protocols
 
-A description of the protocols and standards
-that must be followed when developing and deploying applications on the SSB
-mainnet, including message and feed replication, peer-to-peer communication, and
-data integrity.
-
 The mechanism proposed implies that all Application connecting to the SSB
 mainnet must implement the SSB-DID protocol. An additional protocol may be
 needed or included in the SSB-DID protocol to implement the communication by 
