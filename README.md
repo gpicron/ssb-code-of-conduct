@@ -205,8 +205,8 @@ identify and address potential vulnerabilities.
 
 Developers and applications are also expected to fully disclose any data
 collection and usage practices to users and obtain explicit consent for such
-practices. Users should also have the ability to easily access, delete, and
-download their data at any time.
+practices. Users should also have the ability to revoke trust in an Application
+and the Application is expected delete the data of the user.
 
 In the event of a data breach, developers and applications are expected to
 quickly notify users and take appropriate measures to mitigate the impact of the
