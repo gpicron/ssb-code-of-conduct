@@ -20,7 +20,7 @@
    community.
 
 6. **User control**: Users must have full control over their own data and the
-   ability to delete or export it at any time.
+   ability to request replicator to delete it at any time.
 
 7. **Respect for identity**: The SSB protocol must respect the subjectivity and
    diversity of identities and not discriminate based on any protected
