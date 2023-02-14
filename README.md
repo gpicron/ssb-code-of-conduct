@@ -11,7 +11,7 @@
 3. **Data security**: All user data must be kept secure and protected from
    unauthorized access.
 
-4. **Fair usage**: The SSB protocol must be used for lawful and fair purposes only.
+4. **Fair usage**: The SSB protocol must be used fair purposes only.
    Any attempts to manipulate or exploit the system for personal gain or
    malicious intent will not be tolerated.
 
